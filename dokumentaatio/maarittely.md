@@ -8,7 +8,7 @@ Kukin merkki voi esiintyä vain kerran. Merkit ovat aluksi sijoitettu satunnaise
 Merkkien paikkaa voi vaihtaa siirtämällä tyhjän ruudun vierekkäisiä
 merkkejä ruutuun. Pelissä tehtävänä on pyrkiä saamaan järjestettyä
 merkit siten, että ensin ovat luvut 1-15 pienimmästä suurimpaan ja viimeinen
-ruutu on tyhjä.[0]
+ruutu on tyhjä.
 
 ## Ratkaistava ongelma
 Ohjelma saa syötteenä taulukon, joka kuvaa pelin alkutilaa. Ohjelman täytyy löytää tarvittavat siirrot,
